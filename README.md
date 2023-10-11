@@ -1,4 +1,4 @@
-Creates a file system in google drive for a given course using drive APIs
+<h1>Creates a filing system in google drive using Google cloud and APIs</h1>
 The program create-folders.py takes a few inputs from the user, such as the number of assignments and lecture frequency,
 then creates the filing system using those inputs.
 
